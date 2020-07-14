@@ -1,5 +1,6 @@
-### Hi 👋, I am a Développeur front-end web. 
+### Hi 👋, I am a Développeur web. 
 <img src="https://github.com/Anita-joseph/Anita-joseph/blob/master/profile-readme.jpg" alt="profile" width="1200"/>
+
 
 <!--
 **Anita-joseph/Anita-joseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

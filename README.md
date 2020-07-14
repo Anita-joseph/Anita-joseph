@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi 👋, I am a Développeur front-end web. 
+
 
 <!--
 **Anita-joseph/Anita-joseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

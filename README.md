@@ -1,5 +1,5 @@
 ### Hi 👋, I am a Développeur web. 
-<img src="https://github.com/Anita-joseph/Anita-joseph/blob/master/profile-readme.jpg" alt="profile" width="1200"/>
+<img src="https://github.com/Anita-joseph/Anita-joseph/blob/master/profile-readme.jpg" style=":hover{opacity:.2;}, content='Hello'" alt="profile" width="1200"/>
 
 
 <div>

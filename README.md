@@ -4,7 +4,8 @@
   <a href="https://github.com/Anita-joseph/Front-end-dev-challenges/pulse"></a>
 </div> 
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 - 🔭 I’m currently working on javascript challenges
 - 🌱 I’m currently learning React

@@ -3,6 +3,7 @@
 <div>
   <a href="https://github.com/Anita-joseph/Front-end-dev-challenges/pulse"></a>
 </div> 
+<img src="https://github.com/Anita-joseph/Anita-joseph/master/images/stat.svg" alt="Avinal WakaTime Activity"/>
 
 <!--START_SECTION:waka-->
 ```text

@@ -1,6 +1,7 @@
 ### Hi 👋, I am a Développeur web. 
 <img src="https://github.com/Anita-joseph/Anita-joseph/blob/master/profile-readme.jpg" alt="profile" width="1200"/>
-<img src="http://github.com/Anita-joseph/Anita-joseph/blob/master/images/stat.svg" alt="My Waka Time" />
+<!-- <img src="http://github.com/Anita-joseph/Anita-joseph/blob/master/images/stat.svg" alt="My Waka Time" /> -->
+<figure><embed src="https://wakatime.com/share/@b139a155-c803-446c-864f-750d0c6fc40d/9c479298-2377-4dc0-aac0-043d9352550e.svg"></embed></figure>
 <div>
   <a href="https://github.com/Anita-joseph/Front-end-dev-challenges/pulse"></a>
 </div> 

@@ -1,6 +1,6 @@
 ### Hi 👋, I am a Développeur web. 
 <img src="https://github.com/Anita-joseph/Anita-joseph/blob/master/profile-readme.jpg" alt="profile" width="1200"/>
-
+<img src="http://github.com/Anita-joseph/Anita-joseph/blob/master/images/stat.svg" alt="My Waka Time" />
 <div>
   <a href="https://github.com/Anita-joseph/Front-end-dev-challenges/pulse"></a>
 </div> 

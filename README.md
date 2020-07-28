@@ -1,6 +1,6 @@
 ### Hi 👋, I am Anita.
-<img src="https://github.com/Anita-joseph/Anita-joseph/blob/master/profile-readme.jpg" alt="profile" width="1200"/>
-<img src="https://github.com/avinal/avinal/blob/master/images/stat.svg" alt="Anita WakaTime Activity"/>
+<img src="https://github.com/Anita-joseph/Anita-joseph/blob/master/github-profile.jpg" alt="profile" opacity="0.6" width="1200"/>
+<img src="https://github.com/Anita-joseph/Anita-joseph/blob/master/images/stat.svg" alt="Anita WakaTime Activity"/>
 
 
 <!--START_SECTION:waka-->

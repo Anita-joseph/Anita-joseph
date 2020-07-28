@@ -1,0 +1,26 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-size: 20px;
+    font-weight: bold;
+    color: #1612d6;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    object-fit: cover;
+}
+
+img:first-of-type {
+    opacity: 0.3;
+    z-index: 1;
+}
+
+img:last-of-type {
+    z-index: 3;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    background: transparent;
+}

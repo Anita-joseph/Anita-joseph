@@ -1,7 +1,7 @@
 ### Hi 👋,
  <h1>I am Anita , Developer web front-end.</h1>
-    <img src="./images/github-profile.jpg" alt="Profile image" />
-    <img src="./images/stat.svg" alt="wakatime graph">
+    <img src="https://github.com/avinal/avinal/blob/master/images/github-profile.jpg" alt="Profile image" />
+    <img src="https://github.com/avinal/avinal/blob/master/images/stat.svg" alt="wakatime graph">
 
 <!--START_SECTION:waka-->
 ```text

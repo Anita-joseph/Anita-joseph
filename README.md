@@ -9,7 +9,7 @@
 ```
 <!--END_SECTION:waka-->
 
-- 🔭 I’m currently working on javascript challenges, front-end challenges
+- 🔭 I’m currently working on javascript, front-end designs
 - 🌱 I’m currently learning React
 
 <!-- - 👯 I’m looking to collaborate on ...

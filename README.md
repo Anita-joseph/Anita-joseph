@@ -4,6 +4,7 @@
     <img src="https://github.com/Anita-joseph/Anita-joseph/blob/master/images/stat.svg" alt="wakatime graph">
 
 
+![Anita's github stats](https://github-readme-stats.vercel.app/api?username=anita-joseph&show_icons=true)
 - 🔭 I’m currently working on javascript, front-end designs
 - 🌱 I’m currently learning React
 

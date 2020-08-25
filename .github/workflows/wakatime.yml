@@ -10,7 +10,7 @@ jobs:
     name: Automatically update my Readme - WakaTime Stat
     runs-on: ubuntu-latest
     steps:
-    - uses: Anita-joseph/Profile-Readme-WakaTime@master
+    - uses: Github/Anita-joseph/Profile-Readme-WakaTime@master
       with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_MONTHLY: false  

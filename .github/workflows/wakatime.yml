@@ -4,9 +4,9 @@ on:
   schedule:
     # Runs at 5 am  '0 0 * * *'  UTC
     - cron: '0 5 * * *'
-      
-uses: Anita-joseph/Profile-Readme-WakaTime@1.2
-with:
+          
+  uses: Anita-joseph/Profile-Readme-WakaTime@1.2
+  with:
     # Your WakaTime API Key
-    WAKATIME_API_KEY: 'a6e80ab3-a26f-4fd7-a75d-377ebf3d7d22'
+    WAKATIME_API_KEY: a6e80ab3-a26f-4fd7-a75d-377ebf3d7d22
     GITHUB_TOKEN: ${{ github.token }}

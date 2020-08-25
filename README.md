@@ -3,8 +3,6 @@
     <img src="https://github.com/Anita-joseph/Anita-joseph/blob/master/images/github-profile.jpg" style="background-size: cover;background-cposition:center" alt="Profile image" />
 	<img src="https://github.com/Anita-joseph/Anita-joseph/blob/master/images/stat.svg" alt="Waka time stat" />
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ![Anita's github stats](https://github-readme-stats.vercel.app/api?username=anita-joseph&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anita-joseph&layout=compact&hide=vue,typescript)](https://github.com/Anita-joseph/github-readme-stats)

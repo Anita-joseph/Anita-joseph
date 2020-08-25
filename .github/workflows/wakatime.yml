@@ -1,6 +1,7 @@
 
 on:
   push:
+    branches: [ master ]
   schedule:
     # Runs at 5 00 am  '
     - cron: '0 5 * * *' 
@@ -10,8 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: Anita-joseph/Profile-Readme-WakaTime@master
-with:
-        WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-        SHOW_MONTHLY: true  
-        GITHUB_TOKEN: ${{ github.token }}
-        GITHUB_ACTION: ${{ github.action }}
+      with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_MONTHLY: false  
+          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_ACTION: ${{ github.action }}

@@ -4,13 +4,14 @@ on:
   schedule:
     # Runs at 5 am  '0 0 * * *'  UTC
     - cron: '0 5 * * *'
-
 jobs:
   update-readme:
     name: Update the WakaTime Stat
     runs-on: ubuntu-latest
     steps:
-      - uses: Anita-joseph/Profile-Readme-WakaTime@1.2
+      - uses: Anita-joseph/Profile-Readme-WakaTime@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GITHUB_TOKEN: ${{ github.token }}
+          # Your WakaTime API Key
+           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+           GITHUB_TOKEN: ${{ github.token }}
+

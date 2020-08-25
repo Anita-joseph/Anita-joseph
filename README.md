@@ -1,7 +1,8 @@
 ### Hi 👋,
  <h1>I am Anita , Developer web front-end.</h1>
     <img src="https://github.com/Anita-joseph/Anita-joseph/blob/master/images/github-profile.jpg" style="background-size: cover;background-cposition:center" alt="Profile image" />
-	
+	<img src="https://github.com/Anita-joseph/Anita-joseph/blob/master/images/stat.svg" alt="Waka time stat" />
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 

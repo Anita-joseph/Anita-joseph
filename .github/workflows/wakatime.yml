@@ -9,9 +9,9 @@ jobs:
     name: Automatically update my Readme - WakaTime Stat
     runs-on: ubuntu-latest
     steps:
-      - uses: Anita-joseph/Profile-Readme-WakaTime@master
-        with:
-          SHOW_MONTHLY: true  
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GITHUB_TOKEN: ${{ github.token }}
-          GITHUB_ACTION: ${{ github.action }}
+    - uses: Anita-joseph/Profile-Readme-WakaTime@master
+with:
+        WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        SHOW_MONTHLY: true  
+        GITHUB_TOKEN: ${{ github.token }}
+        GITHUB_ACTION: ${{ github.action }}

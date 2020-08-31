@@ -377,7 +377,7 @@ z
     <g id="ytick_4">
      <g id="line2d_4">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="65.840625" xlink:href="#m55b415e7a3" y="117.547599"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="65.840625" xlink:href="#fbc000" y="117.547599"/>
       </g>
      </g>
      <g id="text_4">
@@ -789,6 +789,7 @@ z
     </g>
    </g>
    <g id="text_9">
+   
     <!-- Coding Activity During: 17 August, 2020 to 24 August, 2020 -->
     <g transform="translate(164.462812 16.318125)scale(0.12 -0.12)">
      <defs>

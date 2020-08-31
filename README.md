@@ -5,7 +5,7 @@
 
 
 ![Anita's github stats](https://github-readme-stats.vercel.app/api?username=anita-joseph&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anita-joseph&layout=compact&hide=vue,typescript)](https://github.com/Anita-joseph/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anita-joseph&layout=compact&hide=vue)](https://github.com/Anita-joseph/github-readme-stats)
 
 
 - 🔭 I’m currently working on javascript, front-end designs

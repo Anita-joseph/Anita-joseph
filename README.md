@@ -11,7 +11,9 @@
 - 🔭 I’m currently working on javascript, front-end designs
 - 🌱 I’m currently learning React
 
-[![Anita Joseph's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/anitajoseph)
+<a href="https://dev.to/anitajoseph">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Anita Joseph's DEV Profile" height="30" width="30">
+</a>
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with API, JSON

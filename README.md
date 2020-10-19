@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on javascript, front-end designs
 - 🌱 I’m currently learning React
 
-<a href="https://dev.to/anitajoseph">
+Dev profile : <a href="https://dev.to/anitajoseph">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Anita Joseph's DEV Profile" height="30" width="30">
 </a>
 

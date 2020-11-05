@@ -1,11 +1,15 @@
 ### Hi 👋,
  <h1>I am Anita </h1>
+ <h3 style="font-size:22px; color:red">Développeur front-end web</h3>
     <img src="https://github.com/Anita-joseph/Anita-joseph/blob/master/images/github-profile.jpg" style="background-size: cover;background-cposition:center" alt="Profile image" />
-	<img src="https://github.com/Anita-joseph/Anita-joseph/blob/master/images/stat.svg" alt="Waka time stat" />
+	<!-- <img src="https://github.com/Anita-joseph/Anita-joseph/blob/master/images/stat.svg" alt="Waka time stat" /> -->
+
 ![Anita's github stats](https://github-readme-stats.vercel.app/api?username=anita-joseph&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anita-joseph&layout=compact&hide=vue)](https://github.com/Anita-joseph/github-readme-stats)
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 - 🔭 I’m currently working on javascript, front-end designs
 - 🌱 I’m currently learning React
 

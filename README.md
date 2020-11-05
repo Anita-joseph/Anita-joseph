@@ -2,7 +2,7 @@
  <h1>I am Anita </h1>
  <h3 style="font-size:22px; color:red">Développeur front-end web</h3>
     <img src="https://github.com/Anita-joseph/Anita-joseph/blob/master/images/github-profile.jpg" style="background-size: cover;background-cposition:center" alt="Profile image" />
-	<!-- <img src="https://github.com/Anita-joseph/Anita-joseph/blob/master/images/stat.svg" alt="Waka time stat" /> -->
+	<img src="https://github.com/Anita-joseph/Anita-joseph/blob/master/images/stat.svg" alt="Waka time stat" />
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=anita-joseph&show_icons=true&theme=radical)
 

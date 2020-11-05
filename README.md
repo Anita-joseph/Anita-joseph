@@ -9,6 +9,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anita-joseph&layout=compact&hide=vue)](https://github.com/Anita-joseph/github-readme-stats)
 
 <!--START_SECTION:waka-->
+```text
+Week: 28 October, 2020 - 04 November, 2020
+
+HTML         2 hrs 23 mins   █████████████▓░░░░░░░░░░░   54.99 % 
+CSS          1 hr 47 mins    ██████████▒░░░░░░░░░░░░░░   41.30 % 
+JavaScript   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+```
 <!--END_SECTION:waka-->
 - 🔭 I’m currently working on javascript, front-end designs
 - 🌱 I’m currently learning React

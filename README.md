@@ -14,7 +14,7 @@ CSS          1 hr 47 mins    ██████████▒░░░░░░
 JavaScript   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
 ```
 <!--END_SECTION:waka-->
-- 🔭 I’m currently working on javascript, front-end designs
+- 🔭 I’m currently working on Javascript, front-end designs
 - 🌱 I’m currently learning React
 
 Dev profile : <a href="https://dev.to/anitajoseph">

@@ -7,7 +7,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 December, 2020 - 03 January, 2021
+Week: 28 December, 2020 - 04 January, 2021
 
 HTML         2 hrs 23 mins   █████████████▓░░░░░░░░░░░   54.99 % 
 CSS          1 hr 47 mins    ██████████▒░░░░░░░░░░░░░░   41.30 % 

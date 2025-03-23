@@ -10,8 +10,8 @@
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
-- 🔭 I’m currently working on Javascript, front-end designs
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working on JAVA
+- 🌱 I’m currently learning ...
 
 Dev profile : <a href="https://dev.to/anitajoseph">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Anita Joseph's DEV Profile" height="30" width="30">
